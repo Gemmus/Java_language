@@ -1,9 +1,9 @@
-//   Primitive:   		    		|     Reference:
-//    8 bytes					        |      unlimited
-//    stores data				      |      stores address
+//   Primitive:   		    	|     Reference:
+//    8 bytes			        |      unlimited
+//    stores data  	                |      stores address
 //    can only hold 1 value		|      could hold more than 1 value
-//    less memory			      	|      more memory
-//    fast						        |      slower
+//    less memory		    	|      more memory
+//    faster			        |      slower
 
 public class Main {
 	
