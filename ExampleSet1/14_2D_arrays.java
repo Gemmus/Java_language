@@ -3,8 +3,8 @@ public class Main {
 	public static void main(String[] args) {
 
 		String[][] petHotel = {{"Fluffy", "cat", "black"}, 
-							   {"Barker", "dog", "spotted"},
-							   {"Snowball", "cat", "white"}};
+				       {"Barker", "dog", "spotted"},
+				       {"Snowball", "cat", "white"}};
 		
 		// or:
 		/*
